@@ -4,6 +4,8 @@
 
 I used React and Goole Search API powered by https://rapidapi.com.
 
+The site has been hosted on:-
+### https://google-search-react-aadi.netlify.app
 
 Setup:
 - run ```npm i && npm start``` to start the development server
